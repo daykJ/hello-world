@@ -10,6 +10,4 @@ char* StrCpy(char* src)
    p[i]='\0';
    return p;
 }
-/**
-   B20022307戴舒桐edit
-**/
+
